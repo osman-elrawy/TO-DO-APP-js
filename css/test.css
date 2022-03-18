@@ -1,0 +1,17 @@
+
+
+.btn {
+    border-radius: 20px ;
+
+}
+.card2{
+    
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    width: 90%;
+}
+.none{
+    display: none;
+}
